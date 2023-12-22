@@ -1,0 +1,8 @@
+.form-check-label {
+    cursor: pointer;
+    user-select: none;
+}
+
+label span.required {
+    color: #dd2222;
+}

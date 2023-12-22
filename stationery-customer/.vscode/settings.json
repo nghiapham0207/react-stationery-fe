@@ -1,0 +1,17 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+	// "css.format.newlineBetweenSelectors": false,
+	// "[css]": {
+	// 	"editor.defaultFormatter": "vscode.css-language-features"
+	// }
+}
